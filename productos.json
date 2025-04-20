@@ -1,0 +1,304 @@
+{
+  "productos": [
+    {
+      "nombre": "Camiseta Básica",
+      "descripcion": "Camiseta de algodón 100% en varios colores.",
+      "precio": 12.99,
+      "descuento": 10
+    },
+    {
+      "nombre": "Pantalón Vaquero",
+      "descripcion": "Pantalón vaquero clásico azul.",
+      "precio": 34.9,
+      "descuento": 15
+    },
+    {
+      "nombre": "Zapatillas Deportivas",
+      "descripcion": "Zapatillas cómodas para correr.",
+      "precio": 59.99,
+      "descuento": 20
+    },
+    {
+      "nombre": "Sudadera con Capucha",
+      "descripcion": "Sudadera de felpa con capucha.",
+      "precio": 29.95,
+      "descuento": 5
+    },
+    {
+      "nombre": "Gorra Casual",
+      "descripcion": "Gorra ajustable estilo urbano.",
+      "precio": 9.5,
+      "descuento": 0
+    },
+    {
+      "nombre": "Bolso de Mano",
+      "descripcion": "Bolso elegante de cuero sintético.",
+      "precio": 45.0,
+      "descuento": 10
+    },
+    {
+      "nombre": "Reloj Deportivo",
+      "descripcion": "Reloj con cronómetro y alarma.",
+      "precio": 39.99,
+      "descuento": 12
+    },
+    {
+      "nombre": "Gafas de Sol",
+      "descripcion": "Gafas con protección UV400.",
+      "precio": 19.99,
+      "descuento": 25
+    },
+    {
+      "nombre": "Chaqueta Impermeable",
+      "descripcion": "Chaqueta ligera resistente al agua.",
+      "precio": 49.9,
+      "descuento": 18
+    },
+    {
+      "nombre": "Mochila Urbana",
+      "descripcion": "Mochila resistente para el día a día.",
+      "precio": 27.8,
+      "descuento": 10
+    },
+    {
+      "nombre": "Camisa Formal",
+      "descripcion": "Camisa blanca de vestir.",
+      "precio": 24.5,
+      "descuento": 5
+    },
+    {
+      "nombre": "Pijama Algodón",
+      "descripcion": "Pijama cómodo para dormir.",
+      "precio": 19.95,
+      "descuento": 8
+    },
+    {
+      "nombre": "Bufanda de Lana",
+      "descripcion": "Bufanda suave y cálida.",
+      "precio": 14.75,
+      "descuento": 10
+    },
+    {
+      "nombre": "Guantes de Invierno",
+      "descripcion": "Guantes térmicos unisex.",
+      "precio": 11.99,
+      "descuento": 20
+    },
+    {
+      "nombre": "Cinturón de Cuero",
+      "descripcion": "Cinturón clásico para hombre.",
+      "precio": 17.5,
+      "descuento": 5
+    },
+    {
+      "nombre": "Sandalias de Playa",
+      "descripcion": "Sandalias resistentes al agua.",
+      "precio": 13.25,
+      "descuento": 15
+    },
+    {
+      "nombre": "Chaleco Acolchado",
+      "descripcion": "Chaleco sin mangas para el frío.",
+      "precio": 34.99,
+      "descuento": 12
+    },
+    {
+      "nombre": "Camiseta Estampada",
+      "descripcion": "Camiseta con diseño gráfico.",
+      "precio": 14.99,
+      "descuento": 10
+    },
+    {
+      "nombre": "Falda Larga",
+      "descripcion": "Falda fluida para mujer.",
+      "precio": 22.95,
+      "descuento": 8
+    },
+    {
+      "nombre": "Zapatos de Vestir",
+      "descripcion": "Zapatos elegantes de cuero.",
+      "precio": 65.0,
+      "descuento": 20
+    },
+    {
+      "nombre": "Calcetines Pack x5",
+      "descripcion": "Cinco pares de calcetines de algodón.",
+      "precio": 9.99,
+      "descuento": 10
+    },
+    {
+      "nombre": "Chaqueta de Cuero",
+      "descripcion": "Chaqueta estilo motociclista.",
+      "precio": 89.9,
+      "descuento": 30
+    },
+    {
+      "nombre": "Vestido Veraniego",
+      "descripcion": "Vestido fresco para el verano.",
+      "precio": 29.9,
+      "descuento": 15
+    },
+    {
+      "nombre": "Camiseta sin Mangas",
+      "descripcion": "Camiseta de tirantes para el gimnasio.",
+      "precio": 11.95,
+      "descuento": 5
+    },
+    {
+      "nombre": "Pantalones Cortos",
+      "descripcion": "Shorts casuales para hombre.",
+      "precio": 18.0,
+      "descuento": 10
+    },
+    {
+      "nombre": "Jersey de Punto",
+      "descripcion": "Jersey cálido y elegante.",
+      "precio": 32.5,
+      "descuento": 18
+    },
+    {
+      "nombre": "Zapatos de Lona",
+      "descripcion": "Zapatos informales y ligeros.",
+      "precio": 23.99,
+      "descuento": 12
+    },
+    {
+      "nombre": "Bañador Hombre",
+      "descripcion": "Bañador con diseño moderno.",
+      "precio": 16.75,
+      "descuento": 8
+    },
+    {
+      "nombre": "Bañador Mujer",
+      "descripcion": "Bañador de una pieza elegante.",
+      "precio": 24.99,
+      "descuento": 10
+    },
+    {
+      "nombre": "Pulsera de Cuero",
+      "descripcion": "Pulsera artesanal para hombre.",
+      "precio": 7.5,
+      "descuento": 0
+    },
+    {
+      "nombre": "Pendientes de Plata",
+      "descripcion": "Pendientes pequeños con brillo.",
+      "precio": 15.0,
+      "descuento": 5
+    },
+    {
+      "nombre": "Collar Minimalista",
+      "descripcion": "Collar dorado sencillo.",
+      "precio": 13.4,
+      "descuento": 12
+    },
+    {
+      "nombre": "Blusa de Seda",
+      "descripcion": "Blusa elegante para ocasiones formales.",
+      "precio": 35.6,
+      "descuento": 15
+    },
+    {
+      "nombre": "Leggings Deportivos",
+      "descripcion": "Leggings ajustados y cómodos.",
+      "precio": 21.99,
+      "descuento": 10
+    },
+    {
+      "nombre": "Sujetador Deportivo",
+      "descripcion": "Sujetador de alta sujeción.",
+      "precio": 19.95,
+      "descuento": 8
+    },
+    {
+      "nombre": "Chaqueta de Punto",
+      "descripcion": "Chaqueta de punto abierta.",
+      "precio": 28.9,
+      "descuento": 10
+    },
+    {
+      "nombre": "Top Corto",
+      "descripcion": "Top para el verano.",
+      "precio": 10.5,
+      "descuento": 5
+    },
+    {
+      "nombre": "Mono Largo",
+      "descripcion": "Mono para mujer de tela fluida.",
+      "precio": 39.9,
+      "descuento": 20
+    },
+    {
+      "nombre": "Abrigo de Invierno",
+      "descripcion": "Abrigo largo con forro polar.",
+      "precio": 79.99,
+      "descuento": 25
+    },
+    {
+      "nombre": "Botas de Montaña",
+      "descripcion": "Botas resistentes al agua.",
+      "precio": 69.5,
+      "descuento": 15
+    },
+    {
+      "nombre": "Pañuelo Estampado",
+      "descripcion": "Pañuelo ligero para cuello o cabeza.",
+      "precio": 8.95,
+      "descuento": 10
+    },
+    {
+      "nombre": "Sombrero de Paja",
+      "descripcion": "Sombrero ideal para el verano.",
+      "precio": 14.99,
+      "descuento": 0
+    },
+    {
+      "nombre": "Chaleco de Traje",
+      "descripcion": "Chaleco elegante para traje formal.",
+      "precio": 42.3,
+      "descuento": 10
+    },
+    {
+      "nombre": "Tirantes Clásicos",
+      "descripcion": "Tirantes ajustables de hombre.",
+      "precio": 9.8,
+      "descuento": 5
+    },
+    {
+      "nombre": "Zapatos Oxford",
+      "descripcion": "Zapatos de vestir estilo Oxford.",
+      "precio": 75.0,
+      "descuento": 18
+    },
+    {
+      "nombre": "Camisón de Encaje",
+      "descripcion": "Camisón elegante y cómodo.",
+      "precio": 26.7,
+      "descuento": 12
+    },
+    {
+      "nombre": "Zapatillas de Casa",
+      "descripcion": "Zapatillas de felpa para el hogar.",
+      "precio": 15.2,
+      "descuento": 8
+    },
+    {
+      "nombre": "Parka con Capucha",
+      "descripcion": "Parka acolchada para el frío.",
+      "precio": 59.99,
+      "descuento": 20
+    },
+    {
+      "nombre": "Mono Corto",
+      "descripcion": "Mono corto veraniego.",
+      "precio": 19.99,
+      "descuento": 10
+    },
+    {
+      "nombre": "Gafas Lectura",
+      "descripcion": "Gafas para leer con estilo.",
+      "precio": 12.5,
+      "descuento": 15
+    }
+  ]
+}
