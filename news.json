@@ -1,0 +1,21 @@
+{
+    "noticias": 
+    [
+        {
+            "autor":"MNavarro",
+            "titulo": "Última Hora: Nueva Ley de Protección de Datos",
+            "resumen": "El gobierno ha aprobado una nueva ley que protege los datos personales de los ciudadanos."
+        },
+        {
+            "autor": "Dpuga",
+            "titulo": "La Junta de Andalucia Elimina del IES AL-Andalus el ciclo de ASIR",
+            "resumen": "La Junta de Andalucía ha decidido eliminar el ciclo formativo de ASIR en modalidad Semipresencial del IES AL-Andalus, lo que ha generado controversia entre los estudiantes y profesores." 
+        },
+        {
+            "autor": "RPardo",
+            "titulo": "El IES AL-Andalus se queda sin el ciclo de ASIR",
+            "resumen": "El IES AL-Andalus ha anunciado la eliminación del ciclo formativo de ASIR, lo que ha dejado a muchos estudiantes sin opciones para continuar su formación en este campo."
+        }
+        
+    ]
+}
